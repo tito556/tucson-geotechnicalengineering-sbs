@@ -1,0 +1,47 @@
+# Geotechnicalengineering — Tucson
+
+> Geotechnical engineering services in Tucson, United States.
+
+## Services
+- [Anchors](https://tucson.geotechnicalengineering.sbs/anchors/)
+- [Cbr Road](https://tucson.geotechnicalengineering.sbs/cbr-road/)
+- [Cpt Test](https://tucson.geotechnicalengineering.sbs/cpt-test/)
+- [Deep Excavations](https://tucson.geotechnicalengineering.sbs/deep-excavations/)
+- [Excavation Monitoring](https://tucson.geotechnicalengineering.sbs/excavation-monitoring/)
+- [Excavations](https://tucson.geotechnicalengineering.sbs/excavations/)
+- [Flexible Pavement](https://tucson.geotechnicalengineering.sbs/flexible-pavement/)
+- [Footings](https://tucson.geotechnicalengineering.sbs/footings/)
+- [Foundations](https://tucson.geotechnicalengineering.sbs/foundations/)
+- [Geophysics](https://tucson.geotechnicalengineering.sbs/geophysics/)
+- [Grain Size](https://tucson.geotechnicalengineering.sbs/grain-size/)
+- [Ground Improvement](https://tucson.geotechnicalengineering.sbs/ground-improvement/)
+- [Grouting](https://tucson.geotechnicalengineering.sbs/grouting/)
+- [Investigation](https://tucson.geotechnicalengineering.sbs/investigation/)
+- [Lab In Situ](https://tucson.geotechnicalengineering.sbs/lab-in-situ/)
+- [Laboratory](https://tucson.geotechnicalengineering.sbs/laboratory/)
+- [Liquefaction](https://tucson.geotechnicalengineering.sbs/liquefaction/)
+- [Masw](https://tucson.geotechnicalengineering.sbs/masw/)
+- [Mat Foundations](https://tucson.geotechnicalengineering.sbs/mat-foundations/)
+- [Plate Load Test](https://tucson.geotechnicalengineering.sbs/plate-load-test/)
+- [Resistivity](https://tucson.geotechnicalengineering.sbs/resistivity/)
+- [Retaining Walls](https://tucson.geotechnicalengineering.sbs/retaining-walls/)
+- [Rigid Pavement](https://tucson.geotechnicalengineering.sbs/rigid-pavement/)
+- [Road Geotechnics](https://tucson.geotechnicalengineering.sbs/road-geotechnics/)
+- [Seismic](https://tucson.geotechnicalengineering.sbs/seismic/)
+- [Seismic Isolation](https://tucson.geotechnicalengineering.sbs/seismic-isolation/)
+- [Seismic Refraction](https://tucson.geotechnicalengineering.sbs/seismic-refraction/)
+- [Slope Stability](https://tucson.geotechnicalengineering.sbs/slope-stability/)
+- [Slopes](https://tucson.geotechnicalengineering.sbs/slopes/)
+- [Soft Ground Tunnels](https://tucson.geotechnicalengineering.sbs/soft-ground-tunnels/)
+- [Spt Drilling](https://tucson.geotechnicalengineering.sbs/spt-drilling/)
+- [Stone Columns](https://tucson.geotechnicalengineering.sbs/stone-columns/)
+- [Test Pits](https://tucson.geotechnicalengineering.sbs/test-pits/)
+- [Triaxial](https://tucson.geotechnicalengineering.sbs/triaxial/)
+- [Vibrocompaction](https://tucson.geotechnicalengineering.sbs/vibrocompaction/)
+
+## Contact
+- Website: https://tucson.geotechnicalengineering.sbs/
+
+## About
+This site provides geotechnical engineering services in Tucson, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
